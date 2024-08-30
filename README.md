@@ -1,2 +1,2 @@
 # Prequel-To-Perfection
-This is a registration form using php 
+This is an ACM event project
